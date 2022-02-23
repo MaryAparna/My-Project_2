@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #e8a553;
+  border-radius: 20px;
+}
+#flexProperties {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #5ceaea;
+  border-radius: 20px;
+}
+#h3 {
+  margin: 10px;
+}
+button {
+  border: none;
+  background-color: #ffff;
+  padding: 10px 15px;
+  margin: 20px;
+  border-radius: 20px;
+}
+#flexDiv {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 30px;
+}
+#avatar {
+  border-radius: 70px;
+}
